@@ -1,5 +1,7 @@
-# Sistema de Gestión de Mueblería
+# Cristian Camilo Puentes Yepes
 
+# Sistema de Gestión de Mueblería
+s
 Este proyecto es un taller práctico para aplicar los conceptos de Programación Orientada a Objetos (POO) en Python.
 
 ## Instrucciones
