@@ -1,5 +1,14 @@
 # Cristian Camilo Puentes Yepes
 
+# EJECUTAR
+1. abrir la terminal y validar que este sobre la ruta lpa1-taller-poo\muebleria> en caso de no estarlo debera hacer un "cd muebleria"
+
+2. ejecutamos el siguiente comando para iniciar el menu de comandos python cli.py o py cli.py
+
+# EJECUTAR TEST
+1. En caso de querer ejecutar test debemos estar la raiz del proyecto por que si estamos dentro de una carpeta el pytest no correra correctamente
+2. cuando ya estamos en la raiz del proyecto0, ejecutamos el comando "pytest" 
+
 # Sistema de Gestión de Mueblería
 s
 Este proyecto es un taller práctico para aplicar los conceptos de Programación Orientada a Objetos (POO) en Python.
@@ -11,6 +20,7 @@ Este proyecto es un taller práctico para aplicar los conceptos de Programación
 3.  Sigue las instrucciones de cada punto del taller.
 4.  Realiza un commit por cada punto completado.
 5.  Sube tus cambios a tu repositorio remoto.
+
 
 ## Puntos del Taller
 
@@ -26,7 +36,7 @@ Este proyecto es un taller práctico para aplicar los conceptos de Programación
 
 ## Autor
 
-[@tu_cuenta_github]
+[@cristian1231a]
 
 ## Buenas Prácticas y Workflow Moderno * **Código Limpio**: 
 * Fomentar el uso de nombres descriptivos, comentarios claros y una estructura de código coherente.
